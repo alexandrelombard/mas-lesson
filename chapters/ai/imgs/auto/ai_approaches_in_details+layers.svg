@@ -10,7 +10,7 @@
    stroke-linejoin="round"
    xml:space="preserve"
    id="svg464"
-   sodipodi:docname="ai_approaches_in_details+layer.svg"
+   sodipodi:docname="ai_approaches_in_details+layers.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,8 +27,8 @@
    inkscape:document-units="mm"
    showgrid="false"
    inkscape:zoom="1.0217956"
-   inkscape:cx="488.35599"
-   inkscape:cy="315.62085"
+   inkscape:cx="484.44131"
+   inkscape:cy="317.57819"
    inkscape:window-width="1920"
    inkscape:window-height="1011"
    inkscape:window-x="0"
@@ -365,7 +365,7 @@
 <g
    inkscape:groupmode="layer"
    id="layer1"
-   inkscape:label="base (1-)"
+   inkscape:label="base &lt;1-&gt;"
    style="display:inline"
    transform="translate(-3073.3041,-2353.5)"><path
      fill="none"
@@ -514,7 +514,7 @@
        id="tspan3884-9">Reasoning control...</tspan></text></g><g
    inkscape:groupmode="layer"
    id="layer2"
-   inkscape:label="descent (2-)"
+   inkscape:label="cognitivist &lt;2-&gt;"
    style="display:inline"
    transform="translate(-3073.3041,-2353.5)"><path
      fill="none"
@@ -587,9 +587,9 @@
        id="tspan4967">Optimality</tspan></text></g><g
    inkscape:groupmode="layer"
    id="layer3"
-   inkscape:label="ascent (3-)"
+   inkscape:label="constructivist &lt;3&gt;"
    style="display:inline"
-   transform="translate(-3073.3041,-2353.5)"><path
+   transform="translate(-3073.3041,-2459.3334)"><path
      fill="none"
      stroke="#ad84c6"
      stroke-width="88"

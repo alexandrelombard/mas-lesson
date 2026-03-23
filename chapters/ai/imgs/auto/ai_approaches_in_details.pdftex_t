@@ -1,0 +1,5 @@
+\begin{tikzpicture}%
+\node<1-> (X) {\includegraphics[width=232.7326em]{/home/sgalland/git/mas-lesson/chapters/ai/imgs/auto/ai_approaches_in_details_layer1.pdf}};%
+\node<2-> (X) {\includegraphics[width=232.7326em]{/home/sgalland/git/mas-lesson/chapters/ai/imgs/auto/ai_approaches_in_details_layer2.pdf}};%
+\node<3> (X) {\includegraphics[width=232.7326em]{/home/sgalland/git/mas-lesson/chapters/ai/imgs/auto/ai_approaches_in_details_layer3.pdf}};%
+\end{tikzpicture}%

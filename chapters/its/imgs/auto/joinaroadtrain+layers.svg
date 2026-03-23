@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="joinaroadtrain.svg"
-   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="joinaroadtrain+layers.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    version="1.1"
    id="svg2"
    height="540.48962"
-   width="961.65472">
+   width="961.65472"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <linearGradient
@@ -241,10 +241,10 @@
        inkscape:label="Soft colors"
        inkscape:menu="Color"
        inkscape:menu-tooltip="Adds a colorizable edges glow inside objects and pictures"
-       height="1"
-       width="1"
-       x="0"
-       y="0"
+       height="17.782043"
+       width="26.032595"
+       x="-12.516297"
+       y="-8.3910216"
        color-interpolation-filters="sRGB">
       <feColorMatrix
          id="feColorMatrix34111"
@@ -473,10 +473,10 @@
        inkscape:label="Soft colors"
        inkscape:menu="Color"
        inkscape:menu-tooltip="Adds a colorizable edges glow inside objects and pictures"
-       height="1"
-       width="1"
-       x="0"
-       y="0"
+       height="17.782043"
+       width="26.032595"
+       x="-12.516297"
+       y="-8.3910216"
        color-interpolation-filters="sRGB">
       <feColorMatrix
          id="feColorMatrix34111-0"
@@ -705,10 +705,10 @@
        inkscape:label="Soft colors"
        inkscape:menu="Color"
        inkscape:menu-tooltip="Adds a colorizable edges glow inside objects and pictures"
-       height="1"
-       width="1"
-       x="0"
-       y="0"
+       height="17.782043"
+       width="26.032595"
+       x="-12.516297"
+       y="-8.3910216"
        color-interpolation-filters="sRGB">
       <feColorMatrix
          id="feColorMatrix34111-4"
@@ -937,10 +937,10 @@
        inkscape:label="Soft colors"
        inkscape:menu="Color"
        inkscape:menu-tooltip="Adds a colorizable edges glow inside objects and pictures"
-       height="1"
-       width="1"
-       x="0"
-       y="0"
+       height="17.782043"
+       width="26.032595"
+       x="-12.516297"
+       y="-8.3910216"
        color-interpolation-filters="sRGB">
       <feColorMatrix
          id="feColorMatrix34111-6"
@@ -1169,10 +1169,10 @@
        inkscape:label="Soft colors"
        inkscape:menu="Color"
        inkscape:menu-tooltip="Adds a colorizable edges glow inside objects and pictures"
-       height="1"
-       width="1"
-       x="0"
-       y="0"
+       height="17.782043"
+       width="26.032595"
+       x="-12.516297"
+       y="-8.3910216"
        color-interpolation-filters="sRGB">
       <feColorMatrix
          id="feColorMatrix34111-01"
@@ -4048,20 +4048,23 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="293.99488"
-     inkscape:cy="348.69012"
+     inkscape:cx="294.96454"
+     inkscape:cy="350.01786"
      inkscape:document-units="px"
      inkscape:current-layer="g4095"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="2"
      fit-margin-left="2"
      fit-margin-right="2"
-     fit-margin-bottom="2" />
+     fit-margin-bottom="2"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -4070,7 +4073,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5021,17 +5024,16 @@
        sodipodi:nodetypes="ccccccc" />
     <text
        xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="127.74505"
        y="500.20267"
        id="text52024"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.8874821,-0.4608422,0.4608422,0.8874821,0,0)"><tspan
+       transform="rotate(-27.441466)"><tspan
          sodipodi:role="line"
          id="tspan52026"
          x="127.74505"
          y="500.20267"
-         style="font-size:16px">Vehicles in convey</tspan></text>
+         style="font-size:16px;line-height:1.25">Vehicles in convey</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5072,28 +5074,31 @@
          id="rect52265-6"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
-         sodipodi:linespacing="125%"
          id="text52245-4"
          y="-133.9149"
          x="561.59351"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan52255-3"
            y="-133.9149"
            x="561.59351"
-           sodipodi:role="line">The road train system makes it</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">The road train system makes it</tspan><tspan
            y="-111.4149"
            x="561.59351"
            sodipodi:role="line"
-           id="tspan53920">possible for the driver to work on</tspan><tspan
+           id="tspan53920"
+           style="font-size:18px;line-height:1.25">possible for the driver to work on</tspan><tspan
            y="-88.914902"
            x="561.59351"
            sodipodi:role="line"
-           id="tspan53922">his or her laptop, read a book, or</tspan><tspan
+           id="tspan53922"
+           style="font-size:18px;line-height:1.25">his or her laptop, read a book, or</tspan><tspan
            y="-66.414902"
            x="561.59351"
            sodipodi:role="line"
-           id="tspan53924">watch a film.</tspan></text>
+           id="tspan53924"
+           style="font-size:18px;line-height:1.25">watch a film.</tspan></text>
     </g>
   </g>
   <g
@@ -5114,32 +5119,36 @@
          id="rect52265"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
-         sodipodi:linespacing="125%"
          id="text52245"
          y="-133.02205"
          x="564.46173"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="-133.02205"
            x="564.46173"
            id="tspan52247"
-           sodipodi:role="line">The lead vehicle, for instance a bus,</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">The lead vehicle, for instance a bus,</tspan><tspan
            id="tspan52249"
            y="-110.52205"
            x="564.46173"
-           sodipodi:role="line">is driven by a professional driver.</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">is driven by a professional driver.</tspan><tspan
            id="tspan52253"
            y="-88.022049"
            x="564.46173"
-           sodipodi:role="line">In this system, the lead vehicle may</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">In this system, the lead vehicle may</tspan><tspan
            id="tspan52259"
            y="-65.522049"
            x="564.46173"
-           sodipodi:role="line">takes over all the following vehicles</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">takes over all the following vehicles</tspan><tspan
            id="tspan52255"
            y="-43.022049"
            x="564.46173"
-           sodipodi:role="line">via wireless radio communication.</tspan></text>
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">via wireless radio communication.</tspan></text>
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -5172,27 +5181,30 @@
          y="-160.89749" />
       <text
          xml:space="preserve"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="564.42627"
          y="-130.35835"
-         id="text52344"
-         sodipodi:linespacing="125%"><tspan
+         id="text52344"><tspan
            sodipodi:role="line"
            x="564.42627"
            y="-130.35835"
-           id="tspan52354">The system is built inside the cars.</tspan><tspan
+           id="tspan52354"
+           style="font-size:18px;line-height:1.25">The system is built inside the cars.</tspan><tspan
            sodipodi:role="line"
            x="564.42627"
            y="-107.85835"
-           id="tspan52372">It does not require any extended</tspan><tspan
+           id="tspan52372"
+           style="font-size:18px;line-height:1.25">It does not require any extended</tspan><tspan
            sodipodi:role="line"
            x="564.42627"
            y="-85.358353"
-           id="tspan52374">infrastructure along the existing</tspan><tspan
+           id="tspan52374"
+           style="font-size:18px;line-height:1.25">infrastructure along the existing</tspan><tspan
            sodipodi:role="line"
            x="564.42627"
            y="-62.858353"
-           id="tspan52376">road network.</tspan></text>
+           id="tspan52376"
+           style="font-size:18px;line-height:1.25">road network.</tspan></text>
     </g>
   </g>
   <g
@@ -5331,35 +5343,40 @@
          y="-155.89749" />
       <text
          xml:space="preserve"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          x="564.42627"
          y="-130.35835"
-         id="text4041"
-         sodipodi:linespacing="125%"><tspan
+         id="text4041"><tspan
            sodipodi:role="line"
            x="564.42627"
            y="-130.35835"
-           id="tspan4043">As they approach their destination</tspan><tspan
+           id="tspan4043"
+           style="font-size:18px;line-height:1.25">As they approach their destination</tspan><tspan
            id="tspan4045"
            sodipodi:role="line"
            x="564.42627"
-           y="-107.85835">drivers take over control of their</tspan><tspan
+           y="-107.85835"
+           style="font-size:18px;line-height:1.25">drivers take over control of their</tspan><tspan
            id="tspan4047"
            sodipodi:role="line"
            x="564.42627"
-           y="-85.358353">own vehicles, leave the road train</tspan><tspan
+           y="-85.358353"
+           style="font-size:18px;line-height:1.25">own vehicles, leave the road train</tspan><tspan
            id="tspan4049"
            sodipodi:role="line"
            x="564.42627"
-           y="-62.858353">by pulling out to the side and then</tspan><tspan
+           y="-62.858353"
+           style="font-size:18px;line-height:1.25">by pulling out to the side and then</tspan><tspan
            id="tspan4051"
            sodipodi:role="line"
            x="564.42627"
-           y="-40.358353">continue on their own path to</tspan><tspan
+           y="-40.358353"
+           style="font-size:18px;line-height:1.25">continue on their own path to</tspan><tspan
            id="tspan4053"
            sodipodi:role="line"
            x="564.42627"
-           y="-17.858353">their destination.</tspan></text>
+           y="-17.858353"
+           style="font-size:18px;line-height:1.25">their destination.</tspan></text>
     </g>
   </g>
   <g
@@ -5411,32 +5428,36 @@
          id="rect4101"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
-         sodipodi:linespacing="125%"
          id="text4103"
          y="-131.38869"
          x="565.24896"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan4105"
            y="-131.38869"
            x="565.24896"
-           sodipodi:role="line">The other vehicles in the queue close the</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">The other vehicles in the queue close the</tspan><tspan
            id="tspan4107"
            y="-108.88869"
            x="565.24896"
-           sodipodi:role="line">gap and continue together on their journey</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">gap and continue together on their journey</tspan><tspan
            id="tspan4109"
            y="-86.388687"
            x="565.24896"
-           sodipodi:role="line">to the location where the road train separates </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">to the location where the road train separates </tspan><tspan
            id="tspan4111"
            y="-63.888687"
            x="565.24896"
-           sodipodi:role="line">once again into its individual vehicles.</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">once again into its individual vehicles.</tspan><tspan
            id="tspan4113"
            y="-41.388687"
            x="565.24896"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25"> </tspan></text>
     </g>
   </g>
   <g
@@ -5463,32 +5484,36 @@
          id="rect53778"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
-         sodipodi:linespacing="125%"
          id="text53780"
          y="-149.82262"
          x="562.90436"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan53790"
            y="-149.82262"
            x="562.90436"
-           sodipodi:role="line">Drivers who want to join a road train state  their</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:18px;line-height:1.25">Drivers who want to join a road train state  their</tspan><tspan
            y="-127.32262"
            x="562.90436"
            sodipodi:role="line"
-           id="tspan53812">destination and are guided by their on-board</tspan><tspan
+           id="tspan53812"
+           style="font-size:18px;line-height:1.25">destination and are guided by their on-board</tspan><tspan
            y="-104.82262"
            x="562.90436"
            sodipodi:role="line"
-           id="tspan53814">navigation system to the nearest road train. The</tspan><tspan
+           id="tspan53814"
+           style="font-size:18px;line-height:1.25">navigation system to the nearest road train. The</tspan><tspan
            y="-82.322617"
            x="562.90436"
            sodipodi:role="line"
-           id="tspan53816">car joins the rear of the queue and the system</tspan><tspan
+           id="tspan53816"
+           style="font-size:18px;line-height:1.25">car joins the rear of the queue and the system</tspan><tspan
            y="-59.822617"
            x="562.90436"
            sodipodi:role="line"
-           id="tspan53818">takes over control of the car.</tspan></text>
+           id="tspan53818"
+           style="font-size:18px;line-height:1.25">takes over control of the car.</tspan></text>
     </g>
     <path
        inkscape:connector-curvature="0"

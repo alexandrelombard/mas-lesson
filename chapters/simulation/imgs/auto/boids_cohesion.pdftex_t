@@ -1,4 +1,4 @@
-%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% Creator: Inkscape 1.2.2 (b0a8486541, 2022-12-01), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'boids_cohesion.pdf' (pdf, eps, ps)
 %%
@@ -35,8 +35,10 @@
     \renewcommand\transparent[1]{}%
   }%
   \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{710.93505859bp}%
+    \setlength{\unitlength}{666.50161743bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -49,10 +51,12 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,1.14262192)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{boids_cohesion.pdf}}%
-    \put(0.50062504,0.45909092){\color[rgb]{1,1,1}\makebox(0,0)[b]{\smash{$p$}}}%
-    \put(0.13688869,0.51918886){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$a_1$}}}%
-    \put(0.39594188,0.83188454){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$a_2$}}}%
-    \put(0.75514006,0.3021809){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$a_3$}}}%
+    \put(0.50062504,0.45909092){\color[rgb]{1,1,1}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$p$\end{tabular}}}}%
+    \put(0.13688869,0.51918886){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$a_1$\end{tabular}}}}%
+    \put(0.39594188,0.83188454){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$a_2$\end{tabular}}}}%
+    \put(0.75514006,0.3021809){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$a_3$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

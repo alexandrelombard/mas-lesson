@@ -1,4 +1,4 @@
-%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% Creator: Inkscape 1.2.2 (b0a8486541, 2022-12-01), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'pedestrian_agent_params.pdf' (pdf, eps, ps)
 %%
@@ -35,8 +35,10 @@
     \renewcommand\transparent[1]{}%
   }%
   \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{126.01975098bp}%
+    \setlength{\unitlength}{118.14351654bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -49,8 +51,10 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.4714438)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{pedestrian_agent_params.pdf}}%
-    \put(0.22961008,0.2652922){\color[rgb]{1,1,1}\makebox(0,0)[b]{\smash{$P_a$}}}%
-    \put(0.95569381,0.26219171){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$P_t$}}}%
+    \put(0.22961008,0.2652922){\color[rgb]{1,1,1}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$P_a$\end{tabular}}}}%
+    \put(0.95569381,0.26219171){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$P_t$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

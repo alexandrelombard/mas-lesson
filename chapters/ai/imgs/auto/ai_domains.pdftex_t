@@ -1,0 +1,4 @@
+\begin{tikzpicture}%
+\node<1-> (X) {\includegraphics[width=500.04059em]{/home/sgalland/git/mas-lesson/chapters/ai/imgs/auto/ai_domains_layer1.pdf}};%
+\node<2> (X) {\includegraphics[width=500.04059em]{/home/sgalland/git/mas-lesson/chapters/ai/imgs/auto/ai_domains_layer2.pdf}};%
+\end{tikzpicture}%

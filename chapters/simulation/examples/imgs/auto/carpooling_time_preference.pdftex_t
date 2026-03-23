@@ -1,4 +1,4 @@
-%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% Creator: Inkscape 1.2.2 (b0a8486541, 2022-12-01), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'carpooling_time_preference.pdf' (pdf, eps, ps)
 %%
@@ -35,8 +35,10 @@
     \renewcommand\transparent[1]{}%
   }%
   \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{143.85814209bp}%
+    \setlength{\unitlength}{134.86700821bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -49,10 +51,12 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.55488135)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{carpooling_time_preference.pdf}}%
-    \put(0.02864693,0.06133972){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.03037389,0.44486913){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{1}}}%
-    \put(1.00263389,0.00572938){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$t$}}}%
+    \put(0.02864693,0.06133972){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.03037389,0.44486913){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}1\end{tabular}}}}%
+    \put(1.00263389,0.00572938){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{carpooling_time_preference.pdf}}%
   \end{picture}%
 \endgroup%

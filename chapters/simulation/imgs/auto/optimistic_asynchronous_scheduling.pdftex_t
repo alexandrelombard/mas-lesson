@@ -1,0 +1,4 @@
+\begin{tikzpicture}%
+\node<1-> (X) {\includegraphics[width=665.98633em]{/home/sgalland/git/mas-lesson/chapters/simulation/imgs/auto/optimistic_asynchronous_scheduling_layer1.pdf}};%
+\node<2> (X) {\includegraphics[width=665.98633em]{/home/sgalland/git/mas-lesson/chapters/simulation/imgs/auto/optimistic_asynchronous_scheduling_layer2.pdf}};%
+\end{tikzpicture}%

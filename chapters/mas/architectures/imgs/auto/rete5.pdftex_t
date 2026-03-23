@@ -1,20 +1,17 @@
-%Overlays
-\bgroup%
 \begin{tikzpicture}%
-\node<1-> (X) {\includegraphics[width=296.1026em]{rete5_layer3}};%
-\node<1-> (X) {\includegraphics[width=296.1026em]{rete5_layer1}};%
-\node<1-2> (X) {\includegraphics[width=296.1026em]{rete5_g951}};%
-\node<3-> (X) {\includegraphics[width=296.1026em]{rete5_g990}};%
-\node<1-4> (X) {\includegraphics[width=296.1026em]{rete5_g1346}};%
-\node<5-> (X) {\includegraphics[width=296.1026em]{rete5_g1014}};%
-\node<1-6> (X) {\includegraphics[width=296.1026em]{rete5_g1390}};%
-\node<7-> (X) {\includegraphics[width=296.1026em]{rete5_g1112}};%
-\node<2> (X) {\includegraphics[width=296.1026em]{rete5_layer2}};%
-\node<3> (X) {\includegraphics[width=296.1026em]{rete5_g982}};%
-\node<4> (X) {\includegraphics[width=296.1026em]{rete5_g1000}};%
-\node<5> (X) {\includegraphics[width=296.1026em]{rete5_g1034}};%
-\node<6-7> (X) {\includegraphics[width=296.1026em]{rete5_g1048}};%
-\node<7> (X) {\includegraphics[width=296.1026em]{rete5_g1132}};%
-\node<8> (X) {\includegraphics[width=296.1026em]{rete5_g1138}};%
+\node<1-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_layer3.pdf}};%
+\node<1-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_layer1.pdf}};%
+\node<1-2> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g951.pdf}};%
+\node<3-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g990.pdf}};%
+\node<1-4> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1346.pdf}};%
+\node<5-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1014.pdf}};%
+\node<1-6> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1390.pdf}};%
+\node<7-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1112.pdf}};%
+\node<2> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_layer2.pdf}};%
+\node<3> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g982.pdf}};%
+\node<4> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1000.pdf}};%
+\node<5> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1034.pdf}};%
+\node<6-7> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1048.pdf}};%
+\node<7> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1132.pdf}};%
+\node<8> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete5_g1138.pdf}};%
 \end{tikzpicture}%
-\egroup%

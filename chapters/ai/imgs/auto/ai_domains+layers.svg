@@ -10,7 +10,7 @@
    stroke-linejoin="round"
    xml:space="preserve"
    id="svg511"
-   sodipodi:docname="ia_domains+layer.svg"
+   sodipodi:docname="ai_domains+layers.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,14 +27,14 @@
    inkscape:document-units="mm"
    showgrid="false"
    inkscape:zoom="0.51089782"
-   inkscape:cx="937.56517"
-   inkscape:cy="554.90548"
+   inkscape:cx="933.65049"
+   inkscape:cy="556.86282"
    inkscape:window-width="1920"
    inkscape:window-height="1011"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="layer2" />
+   inkscape:current-layer="layer1" />
  <defs
    class="ClipPathGroup"
    id="defs8"><clipPath
@@ -886,7 +886,7 @@
 <g
    inkscape:groupmode="layer"
    id="layer1"
-   inkscape:label="base (1-)"
+   inkscape:label="base &lt;1-&gt;"
    style="display:inline"
    transform="translate(-3156.4949,-3576.3049)"><rect
      class="BoundingBox"
@@ -1386,7 +1386,7 @@
        id="tspan4765">Vision</tspan></text></g><g
    inkscape:groupmode="layer"
    id="layer2"
-   inkscape:label="arrows (2)"
+   inkscape:label="arrows &lt;2&gt;"
    style="display:inline"
    transform="translate(-3156.4949,-3576.3049)"><path
      fill="none"

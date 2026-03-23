@@ -1,9 +1,6 @@
-%Overlays
-\bgroup%
 \begin{tikzpicture}%
-\node<1-> (X) {\includegraphics[width=122.07323em]{rete1_layer3}};%
-\node<2> (X) {\includegraphics[width=122.07323em]{rete1_g1567}};%
-\node<3> (X) {\includegraphics[width=122.07323em]{rete1_g1480}};%
-\node<4> (X) {\includegraphics[width=122.07323em]{rete1_g1380}};%
+\node<1-> (X) {\includegraphics[width=122.07323em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete1_layer3.pdf}};%
+\node<2> (X) {\includegraphics[width=122.07323em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete1_g1567.pdf}};%
+\node<3> (X) {\includegraphics[width=122.07323em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete1_g1480.pdf}};%
+\node<4> (X) {\includegraphics[width=122.07323em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete1_g1380.pdf}};%
 \end{tikzpicture}%
-\egroup%

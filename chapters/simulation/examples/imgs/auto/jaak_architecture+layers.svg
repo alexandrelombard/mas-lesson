@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1177.3228"
    height="757.66669"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="jaak_architecture+layers.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="jaak_architecture+layers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <marker
@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="695.16167"
-     inkscape:cy="399.37006"
+     inkscape:cx="692.96464"
+     inkscape:cy="400.52548"
      inkscape:document-units="px"
      inkscape:current-layer="g3964"
      showgrid="false"
@@ -64,10 +64,13 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1920"
-     inkscape:window-height="1056"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -98,16 +101,16 @@
          id="rect3169"
          style="fill:#b8d8e8;fill-opacity:1;stroke:#000000;stroke-width:1.2996794;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text3939"
          y="894.15326"
          x="583.92914"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="894.15326"
            x="583.92914"
            id="tspan3941"
-           sodipodi:role="line">Janus Platform</tspan></text>
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Janus Platform</tspan></text>
     </g>
     <g
        transform="translate(-1.5380851e-7,-172.52504)"
@@ -122,28 +125,31 @@
          id="rect3169-3"
          style="fill:#00527c;fill-opacity:1;stroke:#000000;stroke-width:1.2996794;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text3939-5"
          y="894.15326"
          x="583.93695"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="894.15326"
            x="583.93695"
            id="tspan3941-5"
-           sodipodi:role="line">Jaak Kernel</tspan></text>
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Jaak Kernel</tspan></text>
       <flowRoot
          xml:space="preserve"
          id="flowRoot3875"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          transform="translate(28.823127,531.05353)"><flowRegion
-           id="flowRegion3877"><rect
+           id="flowRegion3877"
+           style="font-family:sans-serif"><rect
              id="rect3879"
              width="1218.5714"
              height="172.85715"
              x="-45.714287"
              y="260.23364" /></flowRegion><flowPara
-           id="flowPara3881" /></flowRoot>    </g>
+           id="flowPara3881"
+           style="font-size:40px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
+    </g>
     <g
        transform="translate(-1.5380851e-7,-345.0501)"
        id="g3018-4">
@@ -157,16 +163,16 @@
          id="rect3169-2"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.2996794;stroke-opacity:1" />
       <text
-         sodipodi:linespacing="125%"
          id="text3939-7"
          y="894.15326"
          x="582.87445"
-         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="894.15326"
            x="582.87445"
            id="tspan3941-4"
-           sodipodi:role="line">Environment Model</tspan></text>
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1.25">Environment Model</tspan></text>
     </g>
     <g
        id="g4048"
@@ -185,15 +191,15 @@
            ry="0" />
         <text
            xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="580.63788"
            y="891.70349"
-           id="text3939-7-3"
-           sodipodi:linespacing="125%"><tspan
+           id="text3939-7-3"><tspan
              sodipodi:role="line"
              id="tspan3941-4-4"
              x="580.63788"
-             y="891.70349">Turtle Body</tspan></text>
+             y="891.70349"
+             style="font-size:32px;line-height:1.25">Turtle Body</tspan></text>
       </g>
       <g
          id="g3018-4-8-7"
@@ -209,15 +215,15 @@
            ry="0" />
         <text
            xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="580.63788"
            y="891.70349"
-           id="text3939-7-3-3"
-           sodipodi:linespacing="125%"><tspan
+           id="text3939-7-3-3"><tspan
              sodipodi:role="line"
              id="tspan3941-4-4-4"
              x="580.63788"
-             y="891.70349">Turtle Body</tspan></text>
+             y="891.70349"
+             style="font-size:32px;line-height:1.25">Turtle Body</tspan></text>
       </g>
       <g
          id="g3018-4-8-6"
@@ -233,15 +239,15 @@
            ry="0" />
         <text
            xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="580.63788"
            y="891.70349"
-           id="text3939-7-3-6"
-           sodipodi:linespacing="125%"><tspan
+           id="text3939-7-3-6"><tspan
              sodipodi:role="line"
              id="tspan3941-4-4-44"
              x="580.63788"
-             y="891.70349">Turtle Body</tspan></text>
+             y="891.70349"
+             style="font-size:32px;line-height:1.25">Turtle Body</tspan></text>
       </g>
       <g
          id="g3018-4-8-65"
@@ -257,15 +263,15 @@
            ry="0" />
         <text
            xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="580.63788"
            y="891.70349"
-           id="text3939-7-3-7"
-           sodipodi:linespacing="125%"><tspan
+           id="text3939-7-3-7"><tspan
              sodipodi:role="line"
              id="tspan3941-4-4-5"
              x="580.63788"
-             y="891.70349">Turtle Body</tspan></text>
+             y="891.70349"
+             style="font-size:32px;line-height:1.25">Turtle Body</tspan></text>
       </g>
     </g>
     <g
@@ -285,15 +291,15 @@
            ry="0" />
         <text
            xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="580.63788"
            y="891.70349"
-           id="text3939-7-3-1"
-           sodipodi:linespacing="125%"><tspan
+           id="text3939-7-3-1"><tspan
              id="tspan4026"
              sodipodi:role="line"
              x="580.63788"
-             y="891.70349">Turtle</tspan></text>
+             y="891.70349"
+             style="font-size:32px;line-height:1.25">Turtle</tspan></text>
       </g>
       <g
          id="g3018-4-8-7-2"
@@ -309,15 +315,15 @@
            ry="0" />
         <text
            xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="580.63788"
            y="891.70349"
-           id="text3939-7-3-3-4"
-           sodipodi:linespacing="125%"><tspan
+           id="text3939-7-3-3-4"><tspan
              sodipodi:role="line"
              id="tspan3941-4-4-4-9"
              x="580.63788"
-             y="891.70349">Turtle</tspan></text>
+             y="891.70349"
+             style="font-size:32px;line-height:1.25">Turtle</tspan></text>
       </g>
       <g
          id="g3018-4-8-6-5"
@@ -333,15 +339,15 @@
            ry="0" />
         <text
            xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="580.63788"
            y="891.70349"
-           id="text3939-7-3-6-1"
-           sodipodi:linespacing="125%"><tspan
+           id="text3939-7-3-6-1"><tspan
              sodipodi:role="line"
              id="tspan3941-4-4-44-5"
              x="580.63788"
-             y="891.70349">Turtle</tspan></text>
+             y="891.70349"
+             style="font-size:32px;line-height:1.25">Turtle</tspan></text>
       </g>
       <g
          id="g3018-4-8-65-4"
@@ -357,15 +363,15 @@
            ry="0" />
         <text
            xml:space="preserve"
-           style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
            x="580.63788"
            y="891.70349"
-           id="text3939-7-3-7-4"
-           sodipodi:linespacing="125%"><tspan
+           id="text3939-7-3-7-4"><tspan
              sodipodi:role="line"
              id="tspan3941-4-4-5-0"
              x="580.63788"
-             y="891.70349">Turtle</tspan></text>
+             y="891.70349"
+             style="font-size:32px;line-height:1.25">Turtle</tspan></text>
       </g>
     </g>
     <path
@@ -432,26 +438,26 @@
        sodipodi:nodetypes="czccczc" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="22.331635"
        y="239.30354"
-       id="text5077"
-       sodipodi:linespacing="125%"><tspan
+       id="text5077"><tspan
          sodipodi:role="line"
          id="tspan5079"
          x="22.331635"
-         y="239.30354">SARL</tspan></text>
+         y="239.30354"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">SARL</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
        x="25.788666"
        y="634.23254"
-       id="text5081"
-       sodipodi:linespacing="125%"><tspan
+       id="text5081"><tspan
          sodipodi:role="line"
          id="tspan5083"
          x="25.788666"
-         y="634.23254">Java</tspan></text>
+         y="634.23254"
+         style="font-size:40px;line-height:1.25;font-family:sans-serif">Java</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -484,27 +490,30 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="210.88667"
        y="216.8689"
-       id="text4243"
-       sodipodi:linespacing="125%"><tspan
+       id="text4243"><tspan
          sodipodi:role="line"
          id="tspan4245"
          x="210.88667"
-         y="216.8689" /></text>
+         y="216.8689"
+         style="font-size:12px;line-height:1.25;font-family:sans-serif"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4247"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-370.96124,-97.405193)"><flowRegion
-         id="flowRegion4249"><rect
+         id="flowRegion4249"
+         style="font-family:sans-serif"><rect
            id="rect4251"
            width="278.80209"
            height="93.944183"
            x="597.00018"
            y="279.92889" /></flowRegion><flowPara
-         id="flowPara4253" /></flowRoot>    <g
+         id="flowPara4253"
+         style="font-size:12px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
+    <g
        id="g4255"
        transform="translate(-160.51821,-308.32489)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
@@ -517,31 +526,30 @@
          id="rect4257"
          style="fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
-         sodipodi:linespacing="125%"
          id="text4259"
          y="503.93262"
          x="454.98392"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="503.93262"
            x="454.98392"
            sodipodi:role="line"
            id="tspan4280"
-           style="font-size:28px">Simulated agent that exhibits a behavior.</tspan><tspan
-           y="538.93262"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif">Simulated agent that exhibits a behavior.</tspan><tspan
+           y="557.35114"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan3104">It is located on a situated environment.</tspan><tspan
-           y="573.93262"
+           y="610.76959"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan3106">It interact with other turtles, perceive around in the</tspan><tspan
-           y="608.93262"
+           y="664.18811"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan3108">environment, and act inside this environment.</tspan></text>
     </g>
   </g>
@@ -575,28 +583,31 @@
        id="rect3898"
        style="opacity:0.5;fill:none;stroke:#008000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
     <text
-       sodipodi:linespacing="125%"
        id="text3900"
        y="216.8689"
        x="210.88667"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="216.8689"
          x="210.88667"
          id="tspan3902"
-         sodipodi:role="line" /></text>
+         sodipodi:role="line"
+         style="font-size:12px;line-height:1.25;font-family:sans-serif"> </tspan></text>
     <flowRoot
        transform="translate(-370.96124,-97.405193)"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot3904"
        xml:space="preserve"><flowRegion
-         id="flowRegion3906"><rect
+         id="flowRegion3906"
+         style="font-family:sans-serif"><rect
            y="279.92889"
            x="597.00018"
            height="93.944183"
            width="278.80209"
            id="rect3908" /></flowRegion><flowPara
-         id="flowPara3910" /></flowRoot>    <g
+         id="flowPara3910"
+         style="font-size:12px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
+    <g
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        transform="translate(-160.51821,5.67511)"
        id="g3912">
@@ -610,30 +621,29 @@
          ry="27.274118" />
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          x="454.98392"
          y="503.93262"
-         id="text3916"
-         sodipodi:linespacing="125%"><tspan
+         id="text3916"><tspan
            id="tspan3924"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            sodipodi:role="line"
            x="454.98392"
            y="503.93262">Software entity that contains objects and</tspan><tspan
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            sodipodi:role="line"
            x="454.98392"
-           y="538.93262"
+           y="557.35114"
            id="tspan3935">substances that are not agents.</tspan><tspan
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            sodipodi:role="line"
            x="454.98392"
-           y="573.93262"
+           y="610.76959"
            id="tspan3937">It is governed by a set of internal rules that cannot</tspan><tspan
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            sodipodi:role="line"
            x="454.98392"
-           y="608.93262"
+           y="664.18811"
            id="tspan3942">be broken by agents.</tspan></text>
     </g>
     <rect
@@ -676,27 +686,30 @@
        ry="0" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="210.88667"
        y="216.8689"
-       id="text3972"
-       sodipodi:linespacing="125%"><tspan
+       id="text3972"><tspan
          sodipodi:role="line"
          id="tspan3974"
          x="210.88667"
-         y="216.8689" /></text>
+         y="216.8689"
+         style="font-size:12px;line-height:1.25;font-family:sans-serif"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3976"
-       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        transform="translate(-370.96124,-97.405193)"><flowRegion
-         id="flowRegion3978"><rect
+         id="flowRegion3978"
+         style="font-family:sans-serif"><rect
            id="rect3980"
            width="278.80209"
            height="93.944183"
            x="597.00018"
            y="279.92889" /></flowRegion><flowPara
-         id="flowPara3982" /></flowRoot>    <g
+         id="flowPara3982"
+         style="font-size:12px;line-height:1.25;font-family:sans-serif"> </flowPara></flowRoot>
+    <g
        id="g3984"
        transform="translate(-160.51821,-157.31474)"
        style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
@@ -709,46 +722,45 @@
          id="rect3986"
          style="fill:#ffffff;fill-opacity:1;stroke:#008000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
       <text
-         sodipodi:linespacing="125%"
          id="text3988"
          y="503.93262"
          x="454.98392"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan3996"
            y="503.93262"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px">Object inside the environment and controlled by a</tspan><tspan
-           y="538.93262"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif">Object inside the environment and controlled by a</tspan><tspan
+           y="557.35114"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan4009">turtle.</tspan><tspan
-           y="573.93262"
+           y="610.76959"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan4011">It is the bridge and the link between the turtle and</tspan><tspan
-           y="608.93262"
+           y="664.18811"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan4013">the environment model.</tspan><tspan
-           y="643.93262"
+           y="717.60663"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan4015">The body cannot break the environment's rules.</tspan><tspan
-           y="678.93262"
+           y="771.02515"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan4017">It gives the perceptions to its turtle and all turtle's</tspan><tspan
-           y="713.93262"
+           y="824.4436"
            x="454.98392"
            sodipodi:role="line"
-           style="font-size:28px"
+           style="font-size:28px;line-height:1.25;font-family:sans-serif"
            id="tspan4019">actions pass through it.</tspan></text>
     </g>
     <rect

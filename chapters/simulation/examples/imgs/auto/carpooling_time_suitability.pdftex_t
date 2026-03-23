@@ -1,4 +1,4 @@
-%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% Creator: Inkscape 1.2.2 (b0a8486541, 2022-12-01), www.inkscape.org
 %% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
 %% Accompanies image file 'carpooling_time_suitability.pdf' (pdf, eps, ps)
 %%
@@ -35,8 +35,10 @@
     \renewcommand\transparent[1]{}%
   }%
   \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{366.72458496bp}%
+    \setlength{\unitlength}{343.8042984bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -49,32 +51,34 @@
   \global\let\svgscale\undefined%
   \makeatother%
   \begin{picture}(1,0.47463028)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{carpooling_time_suitability.pdf}}%
-    \put(0.08155781,0.27957932){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.08223526,0.43002964){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{1}}}%
-    \put(0.46363188,0.25776459){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$t$}}}%
+    \put(0.08155781,0.27957932){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.08223526,0.43002964){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}1\end{tabular}}}}%
+    \put(0.46363188,0.25776459){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{carpooling_time_suitability.pdf}}%
-    \put(0.08155781,0.04297332){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.08223526,0.19342363){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{1}}}%
-    \put(0.46363188,0.02115858){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$t$}}}%
+    \put(0.08155781,0.04297332){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.08223526,0.19342363){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}1\end{tabular}}}}%
+    \put(0.46363188,0.02115858){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{carpooling_time_suitability.pdf}}%
-    \put(0.0787823,0.12382858){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$f_B$}}}%
-    \put(0.0787823,0.35506465){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$f_A$}}}%
+    \put(0.0787823,0.12382858){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$f_B$\end{tabular}}}}%
+    \put(0.0787823,0.35506465){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$f_A$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{carpooling_time_suitability.pdf}}%
-    \put(0.61751391,0.27957932){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.61819136,0.43002964){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{1}}}%
-    \put(0.99958794,0.25776459){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$t$}}}%
+    \put(0.61751391,0.27957932){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.61819136,0.43002964){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}1\end{tabular}}}}%
+    \put(0.99958794,0.25776459){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{carpooling_time_suitability.pdf}}%
-    \put(0.61751391,0.04297332){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{0}}}%
-    \put(0.61819136,0.19342363){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{1}}}%
-    \put(0.99958794,0.02115858){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$t$}}}%
+    \put(0.61751391,0.04297332){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}0\end{tabular}}}}%
+    \put(0.61819136,0.19342363){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}1\end{tabular}}}}%
+    \put(0.99958794,0.02115858){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$t$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{carpooling_time_suitability.pdf}}%
-    \put(0.6147384,0.12382858){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$tis$}}}%
-    \put(0.6147384,0.35506465){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{$f_A \cdot f_B$}}}%
+    \put(0.6147384,0.12382858){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$tis$\end{tabular}}}}%
+    \put(0.6147384,0.35506465){\color[rgb]{0,0,0}\makebox(0,0)[rt]{\lineheight{0}\smash{\begin{tabular}[t]{r}$f_A \cdot f_B$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=7]{carpooling_time_suitability.pdf}}%
-    \put(0.78507242,0.2384811){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$C$}}}%
+    \put(0.78507242,0.2384811){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$C$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=8]{carpooling_time_suitability.pdf}}%
-    \put(0.87321719,0.00224751){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{$C$}}}%
+    \put(0.87321719,0.00224751){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{0}\smash{\begin{tabular}[t]{c}$C$\end{tabular}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=9]{carpooling_time_suitability.pdf}}%
   \end{picture}%
 \endgroup%

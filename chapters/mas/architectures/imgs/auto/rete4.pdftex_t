@@ -1,14 +1,11 @@
-%Overlays
-\bgroup%
 \begin{tikzpicture}%
-\node<1-> (X) {\includegraphics[width=296.1026em]{rete4_layer3}};%
-\node<1-> (X) {\includegraphics[width=296.1026em]{rete4_layer1}};%
-\node<1-2> (X) {\includegraphics[width=296.1026em]{rete4_g1310}};%
-\node<3-> (X) {\includegraphics[width=296.1026em]{rete4_g951}};%
-\node<3> (X) {\includegraphics[width=296.1026em]{rete4_g1018}};%
-\node<1-> (X) {\includegraphics[width=296.1026em]{rete4_g1346}};%
-\node<1-> (X) {\includegraphics[width=296.1026em]{rete4_g1390}};%
-\node<2> (X) {\includegraphics[width=296.1026em]{rete4_layer2}};%
-\node<4> (X) {\includegraphics[width=296.1026em]{rete4_g982}};%
+\node<1-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_layer3.pdf}};%
+\node<1-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_layer1.pdf}};%
+\node<1-2> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_g1310.pdf}};%
+\node<3-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_g951.pdf}};%
+\node<3> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_g1018.pdf}};%
+\node<1-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_g1346.pdf}};%
+\node<1-> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_g1390.pdf}};%
+\node<2> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_layer2.pdf}};%
+\node<4> (X) {\includegraphics[width=296.1026em]{/home/sgalland/git/mas-lesson/chapters/mas/architectures/imgs/auto/rete4_g982.pdf}};%
 \end{tikzpicture}%
-\egroup%
