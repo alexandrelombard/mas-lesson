@@ -7,7 +7,7 @@
    font-size="13px"
    version="1.1"
    id="svg89"
-   sodipodi:docname="agent_architecture.svg"
+   sodipodi:docname="sarl_agent_architecture.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.9309524"
-     inkscape:cx="257.90382"
-     inkscape:cy="206.37485"
-     inkscape:window-width="1674"
-     inkscape:window-height="991"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
+     inkscape:cx="157.95314"
+     inkscape:cy="207.4106"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg89" />
   <!-- ===== Background ===== -->
   <!-- ===== Outer agent boundary ===== -->
@@ -361,10 +361,18 @@
      id="line83" />
   <text
      x="468.22"
-     y="180.03799"
+     y="166.03799"
      font-size="10px"
      fill="#555555"
-     id="text85">Action</text>
+     id="text85"><tspan
+       sodipodi:role="line"
+       id="tspan1365"
+       x="468.22"
+       y="166.03799">Action or</tspan><tspan
+       sodipodi:role="line"
+       id="tspan1367"
+       x="468.22"
+       y="178.53799">Event</tspan></text>
   <text
      x="468.22"
      y="198.03799"

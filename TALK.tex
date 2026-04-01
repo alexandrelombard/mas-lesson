@@ -1,5 +1,3 @@
-\gdef\TALKID{utseus}
-
 %-----------------------------------------------------------------------
 % DOCUMENT TEMPLATE: https://github.com/gallandarakhneorg/tex-templates
 %-----------------------------------------------------------------------
@@ -8,4 +6,13 @@
 %\documentclass[english,partsectioncirclenumberstyle,nocarnotlogo,noutbmlogo]{ciadbeamer}
 \documentclass[english,partsectioncirclenumberstyle,nocarnotlogo,noubelogo]{ciadbeamer}
 
-\input{./talks/text.tex}
+\usepackage{localconfiguration}
+
+\input{talks/utseus/preamble}%
+
+\begin{document}
+ 
+\input{talks/utseus/main}%
+
+\end{document}
+
