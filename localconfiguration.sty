@@ -4,7 +4,6 @@
 
 \RequirePackage{algpseudocode}
 \RequirePackage{listings}
-\RequirePackage{autolatex} % For chapters 3 and 11
 \RequirePackage{tabularx}
 \RequirePackage{wasysym}
 \RequirePackage{epic}
@@ -27,9 +26,7 @@
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \title{Multi-agent systems: An introduction to distributed artificial intelligence}
 
@@ -81,23 +78,6 @@
 }
 \AtBeginSubsubsection{
   	\tableofcontentslide[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
-}
-
-
-
-\renewcommand{\@bibunitname}{\jobname.\the\@bibunitauxcnt}
-
-\def\bibliographyslide{%
-	\begin{frame}[t,allowframebreaks]{\refname}%
-		\tiny\putbib[biblio]%
-	\end{frame}%
-}
-
-\NewEnviron{bibliographysection}[1][apalike]{%
-	\begin{bibunit}[apalike]%
-	\BODY%
-	\bibliographyslide%
-	\end{bibunit}%
 }
 
 \newcommand{\ahc}[2]{\mbox{}\hfill#1\hfill\mbox{}\newline#2}
