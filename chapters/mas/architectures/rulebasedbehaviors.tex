@@ -128,8 +128,8 @@
 		\begin{block}{New Database}\ttfamily
 			(Fuel 1500) \\
 			(Distance-to-Base 100) \\
-			(Enemies (Guy1 42) \\
-			(Guy2 21)) \\
+			(Enemies (Enemy1 42) \\
+			(Enemy2 21)) \\
 			(Action (Attack Guy2))
 		\end{block}
 	\end{column}
@@ -137,16 +137,17 @@
 		\begin{block}{Rule}\ttfamily
 			IF (Action Patrolling) \\
 			AND (Enemies (list ?a)) \\
-			AND ?s = (min-pair-b ?a)
+			AND ?t = (min-right-in-tuples ?a)
+			AND ?s = (left-of ?t)
 			THEN \\
 			$\ominus$ (Action Patrolling) \\
 			$\oplus$ (Action (Attack ?s))
 		\end{block}
 		\ttfamily
 		?a = ((Enemy1 42) (Enemy2 21)) \\
-		?d = 21 \\
-		?s = Guy2
-	\end{column}
+		?t = (Enemy2 21) \\
+		?s = end
+	\Enemy2{column}
 \end{columns}
 \end{frame}
 
