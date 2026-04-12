@@ -9,6 +9,7 @@
 *.vrb
 *.synctex.gz
 
+.autolatex_stamp
 TALK.pdf
 
 videos/*
