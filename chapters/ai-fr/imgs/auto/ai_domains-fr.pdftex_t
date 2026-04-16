@@ -1,0 +1,4 @@
+\begin{tikzpicture}%
+\node<1-> (X) {\includegraphics[width=500.04059em]{./chapters/ai-fr/imgs/auto/ai_domains-fr_layer1.pdf}};%
+\node<2> (X) {\includegraphics[width=500.04059em]{./chapters/ai-fr/imgs/auto/ai_domains-fr_layer2.pdf}};%
+\end{tikzpicture}%
