@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import cairosvg\")",
+      "Bash(python3 -c \"import svglib\")",
+      "Bash(python3 -c \"from reportlab.graphics import renderPDF\")",
+      "Bash(python3 *)",
+      "Bash(where inkscape *)",
+      "Read(//c/Program Files/**)",
+      "Bash(/c/Program Files/Inkscape/bin/inkscape.exe *)",
+      "Bash('/c/Program Files/Inkscape/bin/inkscape.exe' --export-type=pdf '--export-filename=/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/llm_process-fr.pdf' '/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/llm_process-fr.svg')",
+      "Bash(echo \"Exit: $?\")",
+      "Bash('/c/Program Files/Inkscape/bin/inkscape.exe' --export-type=pdf '--export-filename=/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/neural_network-fr.pdf' '/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/neural_network-fr.svg')",
+      "Bash(echo \"neural_network-fr: $?\")",
+      "Bash('/c/Program Files/Inkscape/bin/inkscape.exe' --export-type=pdf '--export-filename=/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/ai_approaches-fr.pdf' '/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/ai_approaches-fr.svg')",
+      "Bash(echo \"ai_approaches-fr: $?\")",
+      "Bash('/c/Program Files/Inkscape/bin/inkscape.exe' --export-type=pdf '--export-filename=/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/eu_ai_act_risk_pyramid-fr.pdf' '/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/eu_ai_act_risk_pyramid-fr.svg')",
+      "Bash('/c/Program Files/Inkscape/bin/inkscape.exe' --export-type=pdf '--export-filename=/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/sovereignty-fr.pdf' '/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/sovereignty-fr.svg')",
+      "Bash(echo \"sovereignty-fr: $?\")",
+      "Bash(ls *)",
+      "Bash('C:/Program Files/Inkscape/bin/inkscape.exe' --export-type=pdf '--export-filename=/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-health-fr/imgs/auto/ai_health_applications.pdf' '/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-health-fr/imgs/auto/ai_health_applications.svg')",
+      "Bash('C:/Program Files/Inkscape/bin/inkscape.exe' --export-type=pdf '--export-filename=/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-health-fr/imgs/auto/ai_health_challenges.pdf' '/c/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-health-fr/imgs/auto/ai_health_challenges.svg')",
+      "Bash(C:/Program Files/Inkscape/bin/inkscape.exe *)",
+      "Bash(\"C:/Program Files/Inkscape/bin/inkscape.exe\" --export-type=pdf --export-filename=\"C:/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/eu_ai_act_risk_pyramid-fr.pdf\" \"C:/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/chapters/ai-fr/imgs/auto/eu_ai_act_risk_pyramid-fr.svg\")",
+      "Bash(py --version)",
+      "Bash(py -3 --version)",
+      "Bash(/c/Python313/python.exe --version)",
+      "Read(//c/Users/alombard.PCP-GI-05/AppData/Local/Programs/Python//**)",
+      "Bash(grep -n -B5 \"^! Misplaced \\\\\\\\\\\\\\\\crcr\" \"C:/Users/alombard.PCP-GI-05/OneDrive - Université De Technologie De Belfort-Montbeliard/UTBM/Présentations/mas-lesson/TALK.log\")"
+    ]
+  }
+}
